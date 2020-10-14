@@ -1,1 +1,2 @@
 Merge conflit brnach
+Add line in b1 branch
